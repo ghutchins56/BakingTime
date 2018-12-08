@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Baking Time</string>
+    <string name="error_recipes">Unable to download recipes</string>
+    <string name="dessert">Dessert</string>
+    <string name="serving">&#160;serving</string>
+    <string name="servings">&#160;servings</string>
+    <string name="servings_not_available">Servings not available</string>
+    <string name="done">Done</string>
+</resources>
